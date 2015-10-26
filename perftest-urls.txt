@@ -1,0 +1,7 @@
+http://perftest.webascrazy.net/perftest.php?size=3000&loops=100
+http://perftest.webascrazy.net/perftest.php?size=2999&loops=80
+http://perftest.webascrazy.net/perftest.php?size=2100&loops=70
+http://perftest.webascrazy.net/perftest.php?size=1100&loops=60
+http://perftest.webascrazy.net/perftest.php?size=6000&loops=100
+http://perftest.webascrazy.net/perftest.php?size=400&loops=200
+http://perftest.webascrazy.net/perftest.php?size=600&loops=100
